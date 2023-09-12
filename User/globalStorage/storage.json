@@ -64,6 +64,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/user/webpages_tech/Tech_Educators01/vboxpostinstall.sh",
+                                        "path": "/home/user/webpages_tech/Tech_Educators01/vboxpostinstall.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/user/webpages_tech/Tech_Educators01/vboxpostinstall.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/user/webpages_tech/Tech_Educators01/webpages_tech/Tech_Educators01",
                                         "path": "/home/user/webpages_tech/Tech_Educators01/webpages_tech/Tech_Educators01",
                                         "scheme": "file"
@@ -701,8 +712,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
